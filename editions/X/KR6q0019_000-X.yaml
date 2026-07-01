@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0019/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 五燈嚴統
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X80/X80n1568.xml
+    old_id: X80n1568
+hash: sha256:ee461fb491b12e3a61a06151d2c34933b32b091a26e6f2034fa30997b108203d
